@@ -1,0 +1,32 @@
+[
+    {
+        "book_id": "1",
+        "title": "Python Basics",
+        "author": "John Doe",
+        "issued": false
+    },
+    {
+        "book_id": "2",
+        "title": "Data Structures",
+        "author": "Jane Smith",
+        "issued": false
+    },
+    {
+        "book_id": "3",
+        "title": "Machine Learning Intro",
+        "author": "Andrew Ng",
+        "issued": false
+    },
+    {
+        "book_id": "4",
+        "title": "Web Development",
+        "author": "David Miller",
+        "issued": false
+    },
+    {
+        "book_id": "5",
+        "title": "python",
+        "author": "javed",
+        "issued": true
+    }
+]
